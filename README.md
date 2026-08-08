@@ -13,3 +13,7 @@ The course includes:
 You can check the full syllabus from this drive link: https://docs.google.com/spreadsheets/d/1QEMhv63lmdO0wINgpman4Z4_T34WxD-vgUKiuCwR9Qo/edit?usp=sharing 
 
 I will upload all the lecture notes, codes, assignments and projects here, just one day before our lecture.
+
+Enjoy every lectures and try to understand and practice by yourself rather than just reading. Take an online datasets from kaggle or any other platform and practice all the concepts.
+
+All the best for your journey to AI ML field!
